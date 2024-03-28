@@ -1,13 +1,13 @@
 ### Hi there, I'm Felipe Scheffel 👋
 
-My name is Felipe Gabriel Comin Scheffel. I am currently a sophomore of Computer Science at Universidade Estadual de Maringá.
+My name is Felipe Gabriel Comin Scheffel. I am Computer Science graduate at Universidade Estadual de Maringá.
 
 I'm driven by challenges and have been interested on mathematics and computation for as long as I can remember.
 
 I have been programming as a hobby since I was 15 and am now aiming to deepen my knowledge, enter the professional arena and contribute to the open source community.
 
-I am looking for internships or junior dev offers.
-I am currently on the 4th semester of my graduation and on a scientific initiation project with a focus on onthologies.
+I am currently looking for junior dev offers.
+
 On my free time I have been studying .NET and JavaScript.
 
 #### Connect with me on [LinkedIn][linkedin]
@@ -34,7 +34,7 @@ On my free time I have been studying .NET and JavaScript.
 ---
 <div>
   <a href="https://github.com/schelip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schelip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schelip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schelip&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
