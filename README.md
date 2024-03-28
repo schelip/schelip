@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe Scheffel 👋
 
-My name is Felipe Gabriel Comin Scheffel. I am Computer Science graduate at Universidade Estadual de Maringá.
+My name is Felipe Gabriel Comin Scheffel. I am a Computer Science graduate at Universidade Estadual de Maringá.
 
 I'm driven by challenges and have been interested on mathematics and computation for as long as I can remember.
 
